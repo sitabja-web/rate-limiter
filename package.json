@@ -1,0 +1,16 @@
+{
+  "name": "ratelimiter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expresss": "^0.0.0",
+    "ip": "^2.0.1"
+  }
+}
